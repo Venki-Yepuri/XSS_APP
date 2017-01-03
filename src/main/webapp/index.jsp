@@ -18,7 +18,7 @@
 
 </head>
 <body onLoad="$ESAPI.encoder().encodeForHTMLAttribute(onLoadFunction())">
-	<h2>XSS Issues!</h2>
+	<h2>XSS Issues!!</h2>
 
 </body>
 </html>
